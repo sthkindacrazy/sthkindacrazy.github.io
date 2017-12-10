@@ -1,0 +1,1 @@
+# sthkindacrazy.github.io
