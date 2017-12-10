@@ -1,0 +1,19 @@
+# Add an entry, where the key represents a slug.
+# Provide at least a `name` value and optionally `image`, `color` and `description`.
+# Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
+#
+# Example:
+#
+# ~~~
+# mytag:
+#   name: My Tag
+#   description: >
+#     *My Tag* is an example of how to define a custom tag.
+# ~~~
+
+programming:
+  name: Programming
+  # image: /hydejack/public/img/jekyll.jpg
+  color: '#147ba7'
+  description: >
+    프로그래밍에 관련된 주제들을 다루고 있습니다.
