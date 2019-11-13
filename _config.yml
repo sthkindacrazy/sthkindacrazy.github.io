@@ -5,14 +5,16 @@ permalink:           pretty
 
 # Setup
 title:               _gray.ish
-tagline:             Joohyung's blog
+tagline:             'blog'
+description:         ''
+url:                 https://sthkindacrazy.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Joohyung Shin
-  url:               sthkindacrazy.github.io
+  name:              Gray Shin
+  url:
   email:             shinjoohyung25@gmail.com
 
 # Custom vars
