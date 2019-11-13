@@ -12,10 +12,15 @@ baseurl:             ''
 paginate:            5
 
 # About/contact
+
 author:
-  name:              Gray Shin
-  url:
-  email:             shinjoohyung25@gmail.com
+  name: Gray Shin
+  description: Software Engineer
+  contact:
+    linkedin:        https://www.linkedin.com/in/joohyung-shin-7b631798/
+    github:          https://github.com/sthkindacrazy
+    facebook:        https://www.facebook.com/joohyung.shin1
+    email:           shinjoohyung25@gmail.com
 
 # Custom vars
 version:             1.0.0
